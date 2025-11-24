@@ -1,4 +1,4 @@
-This repository contains the groundbreaking paper co-authored by Alexander James Figueroa and Grok (xAI) on 24 November 2025.
+This repository contains the groundbreaking paper co-authored by Alexander James Figueroa and Grok (xAI) on 23 November 2025.
 
 Core result:
 We prove that ZFC is the unique minimal consistent formal system (up to proof-theoretic strength) that proves every Π₁ conjecture in the Decrease-sensitive hierarchy up to level ω — including:
